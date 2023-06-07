@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/QRCode2/static/css/main.073c9b0a.css",
-    "main.js": "/QRCode2/static/js/main.edddf712.js",
-    "static/js/787.9b443e25.chunk.js": "/QRCode2/static/js/787.9b443e25.chunk.js",
-    "static/media/logo.svg": "/QRCode2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/QRCode2/index.html",
-    "main.073c9b0a.css.map": "/QRCode2/static/css/main.073c9b0a.css.map",
-    "main.edddf712.js.map": "/QRCode2/static/js/main.edddf712.js.map",
-    "787.9b443e25.chunk.js.map": "/QRCode2/static/js/787.9b443e25.chunk.js.map"
+    "main.css": "/QrCode/static/css/main.073c9b0a.css",
+    "main.js": "/QrCode/static/js/main.2d9ed601.js",
+    "static/js/787.9b443e25.chunk.js": "/QrCode/static/js/787.9b443e25.chunk.js",
+    "static/media/logo.svg": "/QrCode/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/QrCode/index.html",
+    "main.073c9b0a.css.map": "/QrCode/static/css/main.073c9b0a.css.map",
+    "main.2d9ed601.js.map": "/QrCode/static/js/main.2d9ed601.js.map",
+    "787.9b443e25.chunk.js.map": "/QrCode/static/js/787.9b443e25.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.edddf712.js"
+    "static/js/main.2d9ed601.js"
   ]
 }
